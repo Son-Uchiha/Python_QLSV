@@ -4,11 +4,18 @@
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-font-cabin: Cabin, sans-serif;
 }
+/* a{
+  color:#bb2019 !important;
+} */
 
 .navbar.custom-nav {
   background-color: #bb2019 !important;
 }
 
+/* .page-link{
+  color: white !important;
+  background-color: #ec4037 !important;
+} */
 .f--primary{
   color: var(--primary-color);
 }
@@ -24,7 +31,7 @@ padding-top: 10px;
   position: fixed; 
   right: 20px; 
   bottom: 20px; 
-  background-color: #1e4db7;
+  background-color:  #bb2019;
   border-radius: 50%;
   width: 45px;
   height: 45px;
@@ -38,7 +45,7 @@ padding-top: 10px;
 
 .form-control:focus {
   border-color: var(--primary-color);
-  box-shadow: 0 0 0 0.25rem rgba(37, 99, 235, 0.25);
+  box-shadow: 0 0 0 0.25rem  #db372e;
 }
 
 .btn-primary {
@@ -68,8 +75,13 @@ padding-top: 10px;
 
 .footer {
     margin-top: 64px !important;
+    padding: 0;
+    background-color: #bb2019 !important;
 }
 
+.text-muted{
+  color: white !important;
+}
 @media (max-width: 768px) {
   .navbar-brand {
     font-size: 1.1rem;
@@ -94,6 +106,7 @@ padding-top: 10px;
 }
 
 .custom-container {
+  margin-top: 3rem !important;
   width: 100%;
   max-width: 100%;
   margin-left: auto;
@@ -233,11 +246,11 @@ h3.text-start.mb-0, h4.mb-0.text-start {
     box-shadow: 0 10px 20px rgba(0,0,0,0.1);
 }
 .dashboard-header {
-    background: linear-gradient(135deg, #3a8eba, #46a6f7);
-    padding: 2rem;
+    background: linear-gradient(135deg,  #b52c25,  #e13026);
+    padding: 3rem;
     border-radius: 10px;
     color: white;
-    margin-bottom: 2rem;
+    margin: 3rem;
 }
 .dashboard-title {
     font-weight: 700;
@@ -246,7 +259,7 @@ h3.text-start.mb-0, h4.mb-0.text-start {
 }
 .info-box {
     background-color: #f8f9fa;
-    border-left: 4px solid #0d6efd;
+    border-left: 4px solid  #bb2019;
     padding: 1.5rem;
     margin-bottom: 1.5rem;
     border-radius: 5px;
@@ -277,6 +290,14 @@ h3.text-start.mb-0, h4.mb-0.text-start {
 }
 .progress {
     height: 8px;
+}
+
+.card-header.bg-secondary{
+  background-color: #bb2019 !important;
+}
+
+.card-header.bg-primary{
+  background-color: #bb2019 !important;
 }
 
 /* ==== Table column alignment & width for students/teachers ==== */
