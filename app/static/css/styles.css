@@ -4,18 +4,12 @@
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-font-cabin: Cabin, sans-serif;
 }
-/* a{
-  color:#bb2019 !important;
-} */
 
 .navbar.custom-nav {
   background-color: #bb2019 !important;
 }
 
-/* .page-link{
-  color: white !important;
-  background-color: #ec4037 !important;
-} */
+
 .f--primary{
   color: var(--primary-color);
 }
@@ -246,7 +240,7 @@ h3.text-start.mb-0, h4.mb-0.text-start {
     box-shadow: 0 10px 20px rgba(0,0,0,0.1);
 }
 .dashboard-header {
-    background: linear-gradient(135deg,  #b52c25,  #e13026);
+    background: linear-gradient(135deg,  #b63832,  #e1443b);
     padding: 3rem;
     border-radius: 10px;
     color: white;
