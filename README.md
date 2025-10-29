@@ -168,7 +168,5 @@ QLSV-Python/
 - **rules**: Phân quyền, kiểm soát truy cập
 
 ---
-
-
 ## Liên hệ
-- Nếu có vấn đề, liên hệ qua email (tri.np0607@gmail.com). 
+- Nếu có vấn đề, liên hệ qua email (uchihason5@gmail.com ), facebook: Shawn Nguyen
