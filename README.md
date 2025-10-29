@@ -168,5 +168,9 @@ QLSV-Python/
 - **rules**: Phân quyền, kiểm soát truy cập
 
 ---
-## Liên hệ
-- Nếu có vấn đề, liên hệ qua email (uchihason5@gmail.com ), facebook: Shawn Nguyen
+## Liên hệ 
+Nếu có vấn đề, hãy liên hệ qua
+   email: (uchihason5@gmail.com), 
+   zalo: (0949543969),
+   fb: (Shawn Nguyen),
+   msv: B23DCCN720.
